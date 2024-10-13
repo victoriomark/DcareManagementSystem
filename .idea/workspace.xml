@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b60893b7-1d09-413c-b58b-2f6017208152" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Controller/adminLogin.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/View/Attendance.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/View/Login.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/View/Register.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/View/StudentList.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/View/adminLogin.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/View/dashboard.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2nA29bykqFQPnjmcv73Y4WwRYYv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "L:/PhpstormProjects",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="L:\Downloads\CDC_capstone\Assets" />
+      <recent name="L:\Downloads\CDC_capstone" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="L:\Downloads\CDC_capstone\Assets" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14475.35" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b60893b7-1d09-413c-b58b-2f6017208152" name="Changes" comment="" />
+      <created>1728401409588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728401409588</updated>
+      <workItem from="1728401412420" duration="4623000" />
+      <workItem from="1728406519989" duration="2862000" />
+      <workItem from="1728424459604" duration="4337000" />
+      <workItem from="1728433697426" duration="7980000" />
+      <workItem from="1728443065111" duration="5741000" />
+      <workItem from="1728449878764" duration="4133000" />
+      <workItem from="1728454194171" duration="7262000" />
+      <workItem from="1728466917375" duration="15555000" />
+      <workItem from="1728485874208" duration="1737000" />
+      <workItem from="1728513429927" duration="1296000" />
+      <workItem from="1728521655515" duration="77000" />
+      <workItem from="1728567772515" duration="7784000" />
+      <workItem from="1728606370730" duration="4398000" />
+      <workItem from="1728613922815" duration="9914000" />
+      <workItem from="1728629372840" duration="5317000" />
+      <workItem from="1728645325079" duration="98000" />
+      <workItem from="1728647127809" duration="4023000" />
+      <workItem from="1728657582218" duration="9591000" />
+      <workItem from="1728699854958" duration="14226000" />
+      <workItem from="1728714401761" duration="6048000" />
+      <workItem from="1728730519606" duration="1396000" />
+      <workItem from="1728738403850" duration="667000" />
+      <workItem from="1728743436562" duration="3426000" />
+      <workItem from="1728771134010" duration="3860000" />
+      <workItem from="1728779831551" duration="2843000" />
+      <workItem from="1728798088001" duration="11477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
