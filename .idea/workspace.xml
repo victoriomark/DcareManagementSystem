@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b60893b7-1d09-413c-b58b-2f6017208152" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Model/announcementModel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/View/annoucement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/View/parenList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/announcementController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/6c76ccf0-5b7e-471b-b08f-bba32fcd6ac7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/6c76ccf0-5b7e-471b-b08f-bba32fcd6ac7.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/studentConroller.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/studentConroller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/StudentModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/StudentModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/announcementModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/announcementModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/StudentList.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/StudentList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/annoucement.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/annoucement.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/View/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/dashboard.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/View/parentPortal.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/parentPortal.php" afterDir="false" />
     </list>
@@ -33,11 +36,13 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Controller/adminLogin.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Controller/announcementController.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/View/Attendance.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/View/Login.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/View/Register.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/View/StudentList.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/View/adminLogin.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/View/annoucement.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/View/dashboard.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
@@ -75,6 +80,9 @@
       <recent name="L:\Downloads\CDC_capstone" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="L:\Downloads\CDC_capstone" />
+      <recent name="L:\Downloads\CDC_capstone\src\Model" />
+      <recent name="L:\Downloads\CDC_capstone\src" />
       <recent name="L:\Downloads\CDC_capstone\Assets" />
     </key>
   </component>
@@ -123,6 +131,10 @@
       <workItem from="1728819532211" duration="2750000" />
       <workItem from="1728850111398" duration="1000" />
       <workItem from="1728902760677" duration="10464000" />
+      <workItem from="1728944584064" duration="11477000" />
+      <workItem from="1728962692962" duration="17281000" />
+      <workItem from="1728987072821" duration="9196000" />
+      <workItem from="1729002556077" duration="5344000" />
     </task>
     <servers />
   </component>
