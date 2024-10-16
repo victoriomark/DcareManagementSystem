@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b60893b7-1d09-413c-b58b-2f6017208152" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Controller/announcementController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/coverAnnouncement.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/coverAnnouncement.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/6c76ccf0-5b7e-471b-b08f-bba32fcd6ac7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/6c76ccf0-5b7e-471b-b08f-bba32fcd6ac7.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/announcementController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/announcementController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/attendanceConroller.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/attendanceConroller.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/studentConroller.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/studentConroller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/StudentModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/StudentModel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/announcementModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/announcementModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Attendance.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Attendance.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/Attendance.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/Attendance.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/View/StudentList.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/StudentList.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/View/annoucement.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/annoucement.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/View/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/dashboard.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/View/parentPortal.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/parentPortal.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,10 +81,10 @@
       <recent name="L:\Downloads\CDC_capstone" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="L:\Downloads\CDC_capstone\Assets" />
       <recent name="L:\Downloads\CDC_capstone" />
       <recent name="L:\Downloads\CDC_capstone\src\Model" />
       <recent name="L:\Downloads\CDC_capstone\src" />
-      <recent name="L:\Downloads\CDC_capstone\Assets" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -134,7 +135,10 @@
       <workItem from="1728944584064" duration="11477000" />
       <workItem from="1728962692962" duration="17281000" />
       <workItem from="1728987072821" duration="9196000" />
-      <workItem from="1729002556077" duration="5344000" />
+      <workItem from="1729002556077" duration="5716000" />
+      <workItem from="1729033318182" duration="3873000" />
+      <workItem from="1729043334222" duration="1321000" />
+      <workItem from="1729063919192" duration="5255000" />
     </task>
     <servers />
   </component>
