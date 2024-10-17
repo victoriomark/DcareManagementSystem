@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b60893b7-1d09-413c-b58b-2f6017208152" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/coverAnnouncement.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/coverAnnouncement.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RequirementsUploads/60341894-3b5f-49a7-ad9a-c1bf6536cd03.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RequirementsUploads/Birth-Certificate-template_HD-Smaller.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UploadImges/ttt.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Auth/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/requirementController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/requirementsModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/requirmentsManagement.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/6c76ccf0-5b7e-471b-b08f-bba32fcd6ac7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/6c76ccf0-5b7e-471b-b08f-bba32fcd6ac7.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/announcementController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/announcementController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/attendanceConroller.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/attendanceConroller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/studentConroller.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/studentConroller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Attendance.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Attendance.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/View/Attendance.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/Attendance.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/View/StudentList.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/StudentList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/announcementModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/announcementModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/dashboard.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/View/parentPortal.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/parentPortal.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +41,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Controller/adminLogin.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Controller/announcementController.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Model/requirementsModel.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/View/Attendance.php" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/View/Login.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/View/Register.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
@@ -45,18 +49,24 @@
     <setting file="file://$PROJECT_DIR$/src/View/adminLogin.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/View/annoucement.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/View/dashboard.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/View/parentPortal.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/View/requirmentsManagement.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2nA29bykqFQPnjmcv73Y4WwRYYv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -138,11 +148,17 @@
       <workItem from="1729002556077" duration="5716000" />
       <workItem from="1729033318182" duration="3873000" />
       <workItem from="1729043334222" duration="1321000" />
-      <workItem from="1729063919192" duration="5255000" />
+      <workItem from="1729063919192" duration="6060000" />
+      <workItem from="1729077129244" duration="9081000" />
+      <workItem from="1729122853050" duration="11078000" />
+      <workItem from="1729150112385" duration="6220000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
