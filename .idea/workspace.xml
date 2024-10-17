@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b60893b7-1d09-413c-b58b-2f6017208152" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/RequirementsUploads/60341894-3b5f-49a7-ad9a-c1bf6536cd03.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RequirementsUploads/Birth-Certificate-template_HD-Smaller.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UploadImges/ttt.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Auth/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/requirementController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/requirementsModel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/View/requirmentsManagement.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6c76ccf0-5b7e-471b-b08f-bba32fcd6ac7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/6c76ccf0-5b7e-471b-b08f-bba32fcd6ac7.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/announcementController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/announcementController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/announcementModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/announcementModel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/View/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/dashboard.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/View/parentPortal.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/parentPortal.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +139,7 @@
       <workItem from="1729063919192" duration="6060000" />
       <workItem from="1729077129244" duration="9081000" />
       <workItem from="1729122853050" duration="11078000" />
-      <workItem from="1729150112385" duration="6220000" />
+      <workItem from="1729150112385" duration="6741000" />
     </task>
     <servers />
   </component>
