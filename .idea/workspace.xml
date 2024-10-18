@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b60893b7-1d09-413c-b58b-2f6017208152" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/3ddocuments.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/reqirementDash.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/requirementController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/requirementController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/StudentModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/StudentModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/announcementModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/announcementModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/requirementsModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/requirementsModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/Register.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/Register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/StudentList.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/StudentList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/dashboard.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/View/parentPortal.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/parentPortal.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +47,7 @@
     <setting file="file://$PROJECT_DIR$/src/View/annoucement.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/View/dashboard.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/View/parentPortal.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/View/reqirementDash.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/View/requirmentsManagement.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
@@ -139,7 +149,10 @@
       <workItem from="1729063919192" duration="6060000" />
       <workItem from="1729077129244" duration="9081000" />
       <workItem from="1729122853050" duration="11078000" />
-      <workItem from="1729150112385" duration="6741000" />
+      <workItem from="1729150112385" duration="7919000" />
+      <workItem from="1729166181891" duration="6263000" />
+      <workItem from="1729176599459" duration="1571000" />
+      <workItem from="1729209110137" duration="2805000" />
     </task>
     <servers />
   </component>
